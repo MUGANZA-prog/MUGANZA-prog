@@ -65,6 +65,4 @@
 
 
 > 💬 *“Code it clean, make it useful.”*
->
-> ![Snake animation](https://github.com/MUGANZA-prog/portfolio/blob/output/snake.svg)
 
